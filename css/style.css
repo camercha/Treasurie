@@ -26,6 +26,18 @@ h1{
 
 
 
+hr {
+    border: 0;
+    clear:both;
+    display:block;
+    width: 20%;               
+    background-color:#457B9D;
+    height: 1px;
+    margin: auto;
+  }
+
+
+
 
 
 .bottomhead p{
@@ -65,7 +77,7 @@ h1{
     font-size: 30px;
     margin-bottom: 0;
     padding-bottom: 5px;
-    border-bottom: 1px solid blue;
+    
 }
 
 
