@@ -49,6 +49,42 @@ h1{
 
 }
 
+
+.mainhead{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+
+.mainhead h2{
+    font-family: 'Lato', sans-serif;
+    font-size: 30px;
+    margin-bottom: 0;
+    padding-bottom: 5px;
+    border-bottom: 1px solid blue;
+}
+
+
+.mainhead h3{
+    font-family: 'Sirin Stencil', cursive;
+    color:#1d3557;
+    font-weight: normal;
+    font-size: 30px;
+    border: 1px solid red;
+    width: 45%;
+    
+
+}
+.mainhead p{
+    font-family: 'Lato', sans-serif;
+    border: brown 1px solid;
+    font-size: 20px;
+    width: 70%;
+    
+}
+
 /* p br{
     display: none;
 } */
