@@ -107,6 +107,15 @@ hr {
     font-size: 22px;
 }
 
+
+.section2{
+    text-align: center;
+    font-family: 'Sirin Stencil', cursive;
+    color:#1d3557;
+    font-weight: normal;
+    background-color: #A8DADC ;
+}
+
 /* p br{
     display: none;
 } */
