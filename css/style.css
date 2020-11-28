@@ -42,7 +42,11 @@ hr {
   }
 
   ul li{
-      display: inline;
+      margin-top: 12px;
+      display: inline-block;
+      margin-right: 10px;
+      font-family: 'Lato', sans-serif;
+
 
   }
 
@@ -164,3 +168,30 @@ hr {
 /* p br{
     display: none;
 } */
+
+
+
+.tophead{
+    overflow: hidden;
+    position: relative;
+}
+
+.tophead #myLinks{
+    display: none;
+}
+
+.tophead a.icon {
+  color: #E63946;
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+    font-size: 30px;
+  }
+
+  
+
+  .tophead a:hover {
+   
+    color: black;
+  }
